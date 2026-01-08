@@ -1,5 +1,3 @@
- # Emile Honaminto Virgile Djohi
-
 I am an economist and pre-doctoral research fellow affiliated with the  
 **[Penn Development Research Initiative (PDRI-DevLab), University of Pennsylvania](https://pdri-devlab.upenn.edu/bio/emile-honaminto-virgile-djohi/)**.
 
