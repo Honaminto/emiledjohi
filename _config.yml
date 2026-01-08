@@ -154,8 +154,8 @@ social:
   type                   : Person # Person or Organization (defaults to Person)
   name                   : Emile Djohi # If the user or organization name differs from the site's name
   links: 
-  - https://github.com/emiledjohi 
-  - https://orcid.org/0009-0003-5573-4183 # An array of links to social media profiles
+    - https://github.com/Honaminto
+    - https://orcid.org/0009-0003-5573-4183 # An array of links to social media profiles
 
 
 # Analytics
