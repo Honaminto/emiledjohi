@@ -3,9 +3,9 @@ title: "Climate Extremes and Economic Stressors as Predictors of Conflict in Cen
 collection: publications
 permalink: /publication/2025-12-15-climate-extremes-conflict-central-america/
 date: 2025-12-15
-venue: "Working Paper (ongoing)"
+venue: "Manuscript in preparation"
 paperurl: "/files/Writting_Sample_Emile_Djohi.pdf"
-excerpt: "Monthly panel evidence (2012–2024) examining how climate extremes relate to protest and violence through economic stress."
+excerpt: "Ongoing research using monthly data (2012–2024) to study how climate extremes relate to protest and violence through economic stress."
 ---
 
 **Status:** Work in progress.
